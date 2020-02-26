@@ -2,7 +2,7 @@ import scrapy
 
 
 class CategorySpider(scrapy.Spider):
-    """ scrapy crawl category -o data_category.json  """
+    """ scrapy crawl category -o data/category//data_category.json """
     name = 'category'
 
     start_urls = [
