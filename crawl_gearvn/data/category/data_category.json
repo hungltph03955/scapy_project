@@ -60,3 +60,5 @@
     "link_category": "https://gearvn.com/collections/phu-kien"
   }
 ]
+
+response.css('').extract()
